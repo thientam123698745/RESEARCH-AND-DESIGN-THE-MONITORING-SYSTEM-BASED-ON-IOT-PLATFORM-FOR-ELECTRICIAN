@@ -1,0 +1,8 @@
+﻿  test0.cpp
+f:\course\course\luan van 2\ai code\test0\test0\test0.cpp(697): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  1 of 389 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  test0.vcxproj -> F:\course\course\Luan Van 2\AI Code\test0\x64\Release\test0.exe
